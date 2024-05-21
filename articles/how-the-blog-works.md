@@ -1,0 +1,1 @@
+# How the blog section is structured

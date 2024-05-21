@@ -1,0 +1,18 @@
+[
+    {
+        "RelativePath": "example.md",
+        "CreationDate": "2023-12-17",
+        "LastModifiedDate": "2023-12-18",
+        "Title": "Example Article",
+        "Description": "An example article to test the article display system.",
+        "Language": "en"
+    },
+    {
+        "RelativePath": "example_deutsch.md",
+        "CreationDate": "2023-12-29",
+        "LastModifiedDate": "2023-12-29",
+        "Title": "Deutscher Artikel",
+        "Description": "Der Artikel auf Deutsch",
+        "Language": "de"
+    }
+]

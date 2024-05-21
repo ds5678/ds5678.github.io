@@ -1,0 +1,2 @@
+# Source Generation in AssetRipper
+
