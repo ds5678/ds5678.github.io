@@ -1,17 +1,11 @@
 {
-  "name": "nodewebsitetest",
-  "version": "1.0.0",
-  "description": "",
+  "name": "ds5678",
+  "private": true,
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "vite build",
     "dev": "vite"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "bootstrap": "^5.3.8"
   },
