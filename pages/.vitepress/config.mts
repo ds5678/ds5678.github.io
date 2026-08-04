@@ -3,6 +3,7 @@ import { DefaultTheme, defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Jeremy Pritts",
   description: "Full-Stack Software Engineer",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     logo: {
       light: '/logo_light.svg',
