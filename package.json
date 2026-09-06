@@ -1,7 +1,6 @@
 {
   "name": "ds5678",
   "private": true,
-  "main": "index.js",
   "scripts": {
     "build": "vitepress build pages",
     "dev": "vitepress dev pages",
