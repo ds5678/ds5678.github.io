@@ -2,11 +2,11 @@
 
 ## AssetRipper
 
-Working on AssetRipper required deep knowledge of how the game engine works.
+Working on AssetRipper required deep knowledge of how game engines work.
 
 ## Game Studio
 
-I previously worked at a game studio that focused on developing virtual reality games.
+I previously worked at a game studio that focused on developing virtual reality games. We used Unity and an in-house game engine.
 
 ## Stride
 

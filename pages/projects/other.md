@@ -26,4 +26,4 @@ Type trees are a specification for the binary format of Unity assets. I maintain
 
 ## LLVM
 
-I contributed pull requests to the .NET bindings libraries for [clang](https://github.com/dotnet/ClangSharp/pulls?q=is%3Apr+author%3Ads5678+is%3Aclosed) and [LLVM](https://github.com/dotnet/LLVMSharp/pulls?q=is%3Apr+author%3Ads5678+is%3Aclosed).
+I contributed pull requests to the .NET bindings libraries for [Clang](https://github.com/dotnet/ClangSharp/pulls?q=is%3Apr+author%3Ads5678+is%3Aclosed) and [LLVM](https://github.com/dotnet/LLVMSharp/pulls?q=is%3Apr+author%3Ads5678+is%3Aclosed).

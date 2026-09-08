@@ -1,11 +1,13 @@
 # AssetRipper
 
-[AssetRipper](https://github.com/AssetRipper/AssetRipper) is a powerful tool for analyzing Unity game files. For example, it enables game developers to:
+[AssetRipper](https://assetripper.com/) is a powerful tool for analyzing Unity game files. For example, it enables game developers to:
 
 * Find dependency assets that were accidentally included in their game
 * Convert their assets into the native Unity engine format
 * Identify code that could not be inlined or trimmed from their build
 * Find broken asset references that would cause issues in their game
+
+It has 1.3 million downloads and over 100 thousand lines of source code, not including [machine-written](../skills/source-generation.md) lines which number in the millions.
 
 ## Related Projects
 
@@ -15,4 +17,4 @@ I am a long-time contributor to [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL/
 
 ### AsmResolver
 
-I am a long-time contributor to [AsmResolver](https://github.com/Washi1337/AsmResolver/pulls?q=is%3Apr+author%3Ads5678+is%3Aclosed). It handles reading and writing .NET assemblies.
+I am a long-time contributor to [AsmResolver](https://github.com/Washi1337/AsmResolver/pulls?q=is%3Apr+author%3Ads5678+is%3Aclosed). It handles reading and writing [.NET](../skills/dotnet.md) assemblies.
